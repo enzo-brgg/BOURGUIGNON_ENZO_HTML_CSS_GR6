@@ -1,0 +1,231 @@
+
+*{
+    margin: 0px;
+}
+body{
+    display: flex;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+
+header#page1_header{
+    background:#484849;
+    height: 11vw;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    
+}
+.Accueil{
+    flex-direction: row;
+}
+
+.img1{
+    width:  10vw;
+    height: 10vw; 
+    margin-left: 13%;
+    margin-top: 8%;
+    margin-bottom: 150px;
+}
+.img2{
+    width: 12vw;
+}
+.img3{
+    width: 12vw;
+    margin-top: 45%;
+}
+.img4{
+    width: 12vw;
+    margin-top: 45%;
+}
+.img5{
+    
+    width: 70vw;
+    height: 10vw;
+    
+}
+.img6{
+    width: 85vw;
+    height: 65vw;
+}
+.img_links{
+    margin-top: 84%;
+   margin-right: 8%;
+   width: 85%;
+}
+.img7{
+    height: 5vw;
+    
+}
+
+
+nav#page1_nav{
+    width:  15vw;
+    background:#484849;
+    height: 81,5vw;
+    
+}
+
+article#page1_article{
+    background-color: #484849;
+    width: 80vw;
+    height: 60vw;
+   
+}
+
+footer#page1_footer{
+    background-color: rgb(56, 50, 50);
+    width: 85vw;
+    height: 6vw;
+    text-align: center;
+}
+
+*{
+    margin: 0px;
+}
+header#page2_header{
+    width: 100vw;
+    height: 17vw;
+    
+}
+
+.flex_column1{
+    display: flex;
+    flex-direction: row;
+}
+
+nav#page2_nav{
+    width: 100vw;
+    background-color: #01112c;
+    height: 10vw;
+}
+
+.img2_p2{
+    margin-bottom: 1%;
+    width: 15vw;
+    
+}
+.img3_p2{
+    
+    margin: auto;
+    width: 15%;
+}
+.img4_p2{
+    margin: auto;
+    width: 15%;
+}
+.Accueil_P2,.FONT_MAJ_P2,.Régions_P2,.img1_p2{
+    text-align: center;
+}
+
+article#page2_article{
+    background-color: #112a57;
+   width: 80vw;
+   height: 60vw;
+}
+.MAJ_P2{
+    margin-top: 10%;
+    width: 100%;
+}
+
+aside#page2_aside{
+    background-color: #f7f1ec;
+    flex-direction: column-reverse;
+    width: 20vw;
+    height: 70vw;
+}
+
+
+footer#page2_footer{
+    width: 80vw;
+    height: 10vw;
+    background-color: #112a57;
+    
+}
+.img7_P2{
+    margin-left: 110px;
+}
+.QR_CODE_GENSHIN{
+    width: 10%;
+    margin-left: 50px;
+
+}
+.teyvat,.genshin_border{
+    width: 100vw;
+    height: 17vw;
+    
+}
+.links_p2{
+    width: 20vw;
+    height: 40vw;
+    margin-top: 30%;
+}
+.TEXT_p2{
+    margin-top: 20%;
+    width: 20vw;
+    height: 17vw;
+}
+
+header#page3_header{
+    width: 100vw;
+    height: 17vw;
+    background-color: aqua;
+}
+
+.flex_column{
+    display: flex;
+    flex-direction: row;
+}
+
+nav#page3_nav{
+    width: 100vw;
+    background-color: #9bd1f8;
+    height: 10vw;
+    flex-direction: column;
+    
+}
+.img2_p3{
+    margin-bottom: 1%;
+    width: 15vw;
+    
+}
+.img3_p3{
+    
+    margin: auto;
+    width: 15%;
+}
+.img4_p3{
+    margin: auto;
+    width: 15%;
+}
+.Accueil_P3,.FONT_MAJ_P3,.Régions_P3{
+    text-align: center;
+}
+
+article#page3_article{
+    background-color: #9bd1f8;
+   width: 100vw;
+   height: 85vw;
+}
+
+footer#page3_footer{
+    width: 100vw;
+    height: 15vw;
+    background-color: #9bd1f8;
+   
+}
+.img7_P3{
+    margin-left: 200px;
+}
+.QR_CODE_GENSHIN_P3{
+    margin-top: 2%;
+    width: 10%;
+    margin-left: 25px;
+
+}
+.img_anemo_p3,.img_geo_p3,.img_electro_p3,.img_dendro_p3,.img_hydro_p3{
+    width: 100vw;
+}
